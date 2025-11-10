@@ -32,7 +32,7 @@ It is intended for researchers who need **transparent, end‑to‑end analysis**
   
 **Example figure (illustrative only)**  
   
-<img src="assets/pl_fit.png" alt="PL Voigt fit example" width="640"/>
+<img src="assets/PL_lorenz_fit.png" alt="PL Voigt fit example" width="640"/>
   
 </div>
 
